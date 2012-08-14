@@ -109,6 +109,9 @@ s,を,wo,g
 
 #KATAKANA
 
+#TIYÔ'U'ON'
+s,ー,--,g
+
 #basic vowels
 s,ア,'A,g
 s,イ,'I,g
@@ -164,6 +167,7 @@ s,ド,DO,g
 s,ッ,TÛ,g
 
 #n
+s,ン,N',g
 s,ナ,NA,g
 s,ニ,NI,g
 s,ヌ,NU,g
