@@ -45,6 +45,8 @@ s,ぢ,di,g
 s,づ,du,g
 s,で,de,g
 s,ど,do,g
+#soku'on'
+s,っ,tû,g
 
 #n
 s,ん,n',g
@@ -101,6 +103,3 @@ s,わ,wa,g
 s,ゐ,wi,g
 s,ゑ,we,g
 s,を,wo,g
-
-#soku'on'
-s,っ,::,g
