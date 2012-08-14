@@ -203,7 +203,7 @@ s,ヨ,YO,g
 #yo'u'on'
 s,ャ,YÂ,g
 s,ュ,YÛ,g
-s,ョ,YÔ,G
+s,ョ,YÔ,g
 
 #r
 s,ラ,RA,g
