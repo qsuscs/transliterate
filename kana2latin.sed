@@ -22,26 +22,26 @@ s/ぐ/gu/g
 s/げ/ge/g
 s/ご/go/g
 
-#s - si is like "shi"
+#s - "si" is like "shi"
 s/さ/sa/g
 s/し/si/g
 s/す/su/g
 s/せ/se/g
 s/そ/so/g
-#z - zi is like "ji"
+#z - "zi" is like "ji"
 s/ざ/za/g
 s/じ/zi/g
 s/ず/zu/g
 s/ぜ/ze/g
 s/ぞ/zo/g
 
-#t - ti is like "chi"/ tu is like "tsu"
+#t - "ti" is like "chi", "tu" is like "tsu"
 s/た/ta/g
 s/ち/ti/g
 s/つ/tu/g
 s/て/te/g
 s/と/to/g
-#d - di is like ji/ du is like zu
+#d - "di" is like ji, "du" is like "zu"
 s/だ/da/g
 s/ぢ/di/g
 s/づ/du/g
@@ -58,7 +58,7 @@ s/ぬ/nu/g
 s/ね/ne/g
 s/の/no/g
 
-#h - hu is like "fu"
+#h - "hu" is like "fu"
 s/は/ha/g
 s/ひ/hi/g
 s/ふ/hu/g
@@ -84,7 +84,7 @@ s/む/mu/g
 s/め/me/g
 s/も/mo/g
 
-#y - there is no yi and ye
+#y - there is no "yi" and "ye"
 s/や/ya/g
 s/ゆ/yu/g
 s/よ/yo/g
@@ -100,7 +100,7 @@ s/る/ru/g
 s/れ/re/g
 s/ろ/ro/g
 
-#w - wi is like i/ we is like e/ wo is like o/ there is no wu
+#w - "wi" and "we" are actually not used, "wo" is only used as particle and usually pronounced like "o"
 s/わ/wa/g
 s/ゐ/wi/g
 s/ゑ/we/g
@@ -138,26 +138,26 @@ s/グ/GU/g
 s/ゲ/GE/g
 s/ゴ/GO/g
 
-#s - SI is like "shi"
+#s - "SI" is like "shi"
 s/サ/SA/g
 s/シ/SI/g
 s/ス/SU/g
 s/セ/SE/g
 s/ソ/SO/g
-#z - ZI is like "ji"
+#z - "ZI" is like "ji"
 s/ザ/ZA/g
 s/ジ/ZI/g
 s/ズ/ZU/g
 s/ゼ/ZE/g
 s/ゼ/ZO/g
 
-#t - TI is like "chi"/ TU is like "tsu"
+#t - "TI" is like "chi", "TU" is like "tsu"
 s/タ/TA/g
 s/チ/TI/g
 s/ツ/TU/g
 s/テ/TE/g
 s/ト/TO/g
-#d - DI is like "ji"/ DU is like "zu"
+#d - "DI" is like "ji", "DU" is like "zu"
 s/ダ/DA/g
 s/ヂ/DI/g
 s/ヅ/DU/g
@@ -174,7 +174,7 @@ s/ヌ/NU/g
 s/ネ/NE/g
 s/ノ/NO/g
 
-#h - HU is like "fu"
+#h - "HU" is like "fu"
 s/ハ/HA/g
 s/ヒ/HI/g
 s/フ/HU/g
@@ -200,7 +200,7 @@ s/ム/MU/g
 s/メ/ME/g
 s/モ/MO/g
 
-#y - there is no YI and YE
+#y - there is no "YI" and "YE"
 s/ヤ/YA/g
 s/ユ/YU/g
 s/ヨ/YO/g
@@ -216,7 +216,7 @@ s/ル/RU/g
 s/レ/RE/g
 s/ロ/RO/g
 
-#w - there is no WU
+#w - there is no "WU"
 s/ワ/WA/g
 s/ヰ/WI/g
 s/ヱ/WE/g
